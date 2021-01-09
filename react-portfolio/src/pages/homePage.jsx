@@ -1,5 +1,4 @@
 import React from "react";
-// import { Link } from "react-router-dom";
 import Card from "../components/card/card.com";
 
 function Home() {
